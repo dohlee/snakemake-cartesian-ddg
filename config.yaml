@@ -1,0 +1,14 @@
+ROSETTABIN: /data/project/dohoon/rosetta.binary.linux.release-332/main/source/bin
+ROSETTADB: /data/project/dohoon/rosetta.binary.linux.release-332/main/database
+
+pdb_dir: pdb
+mutfile_dir: mutfiles
+
+target_pdbs:
+    - 8F2G
+
+mutfiles:
+    - 8F2G:
+        - '*'
+
+relax_nstruct: 20

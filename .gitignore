@@ -1,0 +1,8 @@
+.snakemake/
+logs/
+
+relax_score/
+relaxed_pdbs/
+
+*.pdb
+*.log
