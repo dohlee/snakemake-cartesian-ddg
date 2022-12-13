@@ -8,7 +8,8 @@ target_pdbs:
     - 8F2G
 
 mutfiles:
-    - 8F2G:
-        - '*'
+    8F2G:
+        # - '*'
+        - 'S50'
 
 relax_nstruct: 20
