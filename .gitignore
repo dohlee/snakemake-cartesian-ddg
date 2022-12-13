@@ -4,5 +4,7 @@ logs/
 relax_score/
 relaxed_pdbs/
 
+result/
+
 *.pdb
 *.log
